@@ -1,7 +1,7 @@
-# 📱 Stock Tracker
+# Stock Tracker
 
-**A virtual stock-investing simulator for Android.** Search companies, follow live prices on interactive
-candlestick charts, read company info and news, keep a watchlist, and buy and sell shares with **$20,000 of virtual money**.
+An Android app to practise investing with fake money. Search companies, follow live prices on interactive
+candlestick charts, read company info and news, keep a watchlist, and buy and sell shares with $20,000 of virtual money.
 
 Final project of my Multiplatform Application Development degree (DAM, 2023).
 
