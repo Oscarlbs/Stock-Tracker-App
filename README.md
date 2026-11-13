@@ -24,9 +24,9 @@ Final project of my Multiplatform Application Development degree (DAM, 2023).
 
 ## Architecture
 
-- **Android client** written in Android Studio.
+- **Android client** built with Android Studio.
 - **Market-data API** (`PROGRAMA-CONEXION-API/`): a Node.js + Express server that proxies the stock-data provider and serves an Angular web build.
 
 This repository contains the API server and the app's screenshots. To run the server locally, see [`GUIA DE USO.txt`](GUIA%20DE%20USO.txt) (in Spanish).
 
-**Stack:** Java · Android Studio · Node.js · Express · Angular · Highcharts
+**Stack:** Android · Node.js · Express · Angular · Highcharts
